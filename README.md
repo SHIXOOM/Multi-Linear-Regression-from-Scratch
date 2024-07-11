@@ -17,4 +17,4 @@ The function that calculates the error (Mean Squared Error).
 ![Code plan](readme%20assets/Plan.jpeg)
 
 
-* My Model scored an MSE of about 0.65 on California's Housing Dataset, which I think is fairly good *
+* My Model scored an MSE of about 0.65 on California's Housing Dataset, which I think is fairly good
